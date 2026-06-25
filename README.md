@@ -6,8 +6,8 @@ Hello! It's Ashlee Apao
 ## Course
 Taking the course of Bachelor of Science in Information Technology
 
-## Subject
-CC400
+## Section
+CCS066
 
 ## Goals in Learning Application Development
 1. Learn how to build real-world applications
